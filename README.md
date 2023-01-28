@@ -12,10 +12,10 @@ O usuário deve ser capaz de:
 - Visualizar uma avaliação para a senha gerada
 - Visualizar de forma otimizada o layout para a interface, independente do tamanho da tela do dispositivo
 - Visualizar os estados de foco para todos os elementos interativos na página
-<!-- 
-### Links
 
-- [Live Site](https://randpass-fm.netlify.app/)-->
+### Link
+
+- [Live Site](https://gioschardong.github.io/Gerador-de-Senhas/)
 
 ### Desenvolvido com:
 
