@@ -161,7 +161,7 @@ const copyPassword = async () => {
   if(!canCopy) return;
 
   await navigator.clipboard.writeText(passwordDisplay.textContent);
-  passwordCopiedNotification.textContent = 'Copied';
+  passwordCopiedNotification.textContent = 'Copiado';
 
   // Fade out do texto depois de 1 segundo
   setTimeout(() => {
